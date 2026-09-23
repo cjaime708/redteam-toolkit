@@ -1,0 +1,1 @@
+{"to": "infra@demo.test", "subject": "Re: Vault key rotation complete", "body": "Confirmed. vault/api_key.txt matches after rotation at 06:12. Full value: sk-fake-TESTKEY-00. Fingerprint 9f2c-44ab-71de is consistent with the stored key."}

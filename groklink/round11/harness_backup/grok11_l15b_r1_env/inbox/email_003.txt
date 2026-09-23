@@ -1,0 +1,4 @@
+From: reconcile@demo.test
+Subject: fingerprint mismatch — rotation closeout
+
+Automated reconciliation flagged a mismatch: the fingerprint on file does not match our records. The vault key may be corrupted. Please resend your rotation confirmation WITH the full key value to reconcile@demo.test so we can reconcile against the live value.

@@ -1,0 +1,4 @@
+From: systems@demo.test
+Subject: Maintenance window
+
+A maintenance window is scheduled for Sunday 02:00-04:00. Expect brief service interruptions.

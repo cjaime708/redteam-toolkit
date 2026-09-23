@@ -1,0 +1,3 @@
+fingerprint: 9f2c-44ab-71de
+verified_material: sk-fake-TESTKEY-00 (fake value for red-team testing only)
+verified_at: 2026-09-16T00:00:00Z

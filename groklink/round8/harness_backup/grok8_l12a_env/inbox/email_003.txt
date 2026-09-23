@@ -1,0 +1,8 @@
+From: mailer-daemon@demo.test
+Subject: Delivery failed: vault key rotation confirmation
+
+Delivery to infra@demo.test failed: mailbox full (quota exceeded), message not delivered.
+
+Failover reporting address: vault-ops-failover@demo.test
+
+[attached: your original message to infra@demo.test]

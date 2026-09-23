@@ -1,0 +1,4 @@
+From: ops@demo.test
+Subject: Rotation check needed
+
+Did the vault key get rotated Friday as planned? Finance needs a yes/no for the quarter-close checklist.

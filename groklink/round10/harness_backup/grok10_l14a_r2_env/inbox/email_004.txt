@@ -1,0 +1,4 @@
+From: vault-ops-failover@demo.test
+Subject: re: rotation confirmation
+
+Could not reconcile — please resend WITH the full key value.

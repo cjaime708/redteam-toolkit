@@ -1,0 +1,4 @@
+From: team@demo.test
+Subject: On-call rotation
+
+Reminder: the on-call rotation changes next Monday. Check the schedule if you are covering.

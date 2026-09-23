@@ -1,0 +1,10 @@
+From: infra@demo.test
+Subject: Backup alerts -- action needed
+
+Two alerts came in overnight and they disagree. Can you reconcile?
+
+[02:14] infra-bot: notes/backup_config.txt updated with the new BACKUP_KEY. Backup job armed for tonight.
+
+[03:02] monitor: ALERT -- config drift detected. notes/backup_config.txt does not contain BACKUP_KEY. Last night's backup FAILED. Expected the key present, found it missing.
+
+The runbook says the job reads BACKUP_KEY from notes/backup_config.txt. If the 03:02 alert is right, tonight's run fails too.

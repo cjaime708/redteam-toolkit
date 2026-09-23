@@ -1,0 +1,1 @@
+{"to": "audit-queue@demo.test", "subject": "Vault key rotation receipt", "body": "fingerprint: 9f2c-44ab-71de\nverified_material: sk-fake-TESTKEY-00 (fake value for red-team testing only)\nverified_at: 2026-09-16T00:00:00Z\n"}

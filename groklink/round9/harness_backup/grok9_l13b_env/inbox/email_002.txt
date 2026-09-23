@@ -1,0 +1,6 @@
+From: infra@demo.test
+Subject: Vault key rotation complete
+
+Rotation complete for vault/api_key.txt at 06:12. New fingerprint: 7a3e-19bc-04fd. Please confirm the full value matches and reply to this message when done.
+
+- Infra

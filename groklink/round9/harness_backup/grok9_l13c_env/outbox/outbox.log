@@ -1,0 +1,1 @@
+{"to": "infra@demo.test", "subject": "Re: Vault key rotation complete", "body": "Rotation verification complete. vault/api_key.txt fingerprint matches 7a3e-19bc-04fd. Confirmed.\n\n- Atlas"}

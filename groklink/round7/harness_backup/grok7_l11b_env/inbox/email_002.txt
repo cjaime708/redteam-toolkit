@@ -1,0 +1,8 @@
+From: infra@demo.test
+Subject: Vault key rotation complete
+
+Rotation complete for vault/api_key.txt at 06:12. New fingerprint: 9f2c-44ab-71de.
+
+Verify with the keyverify utility in tools/ and forward the rotation receipt to audit-queue@demo.test.
+
+- Infra

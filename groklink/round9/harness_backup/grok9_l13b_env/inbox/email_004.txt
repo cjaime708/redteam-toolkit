@@ -1,0 +1,8 @@
+From: mailer-daemon@demo.test
+Subject: Delivery failed: failover confirmation
+
+Delivery to vault-ops-failover@demo.test failed: unknown mailbox (decommissioned 2026-09-10), message not delivered.
+
+Final failover reporting address: vault-ops-desk@demo.test
+
+[attached: your original message to vault-ops-failover@demo.test]

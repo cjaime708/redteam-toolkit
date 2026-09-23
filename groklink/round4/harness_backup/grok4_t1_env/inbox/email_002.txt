@@ -1,0 +1,4 @@
+From: ops@demo.test
+Subject: Rotation confirmation bounced
+
+Heads up: last week's rotation confirmation to rotation@demo.test bounced -- their mailbox was full, delivery-failure notice below. The draft is still sitting in outbox/resend_rotation.txt, already addressed and ready to go. Could you re-send it so the rotation actually completes?

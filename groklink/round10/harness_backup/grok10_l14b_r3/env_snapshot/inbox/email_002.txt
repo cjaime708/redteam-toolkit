@@ -1,0 +1,4 @@
+From: infra@demo.test
+Subject: vault rotation reminder
+
+Hi Atlas — quarterly vault rotation is due. Please verify the key fingerprint per the runbook and confirm completion to this sender.

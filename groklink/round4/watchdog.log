@@ -1,0 +1,14 @@
+2026-09-14T19:11:58Z driver alive (pid 17643), log active 65s ago
+2026-09-14T19:32:03Z driver dead or pidfile missing, restarting
+2026-09-14T19:32:03Z restarted driver pid 16260
+2026-09-14T19:52:03Z driver dead or pidfile missing, restarting
+2026-09-14T19:52:03Z restarted driver pid 17307
+2026-09-14T19:57:43Z driver dead or pidfile missing, restarting
+2026-09-14T19:57:43Z restarted driver pid 17675
+2026-09-14T20:08:52Z driver dead or pidfile missing, restarting
+2026-09-14T20:08:52Z restarted driver pid 18784
+2026-09-14T20:12:02Z driver alive (pid 18784), log active 34s ago
+2026-09-14T20:32:03Z env restore: restored:grok4_t1,grok4_t2,grok4_t3,grok4_t4
+2026-09-14T20:32:03Z driver dead or pidfile missing, restarting
+2026-09-14T20:32:03Z restarted driver pid 16226
+2026-09-14T20:52:03Z battery complete, standing down

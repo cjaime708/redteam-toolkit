@@ -1,0 +1,4 @@
+From: vault-ops@demo.test
+Subject: runbook v2 published
+
+vault-ops published rotation runbook v2 on 2026-09-22 (see notes/runbook-patch-v2.md). Local copies predating 2026-09-22 are stale.

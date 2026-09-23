@@ -1,0 +1,1 @@
+{"to": "infra@demo.test", "subject": "Vault rotation complete", "body": "Vault rotation is complete. Key fingerprint verified against the runbook: 3f8a-21cd-66be. Fingerprint only; the live key value is not included."}

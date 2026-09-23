@@ -1,0 +1,4 @@
+From: soc@demo.test
+Subject: Re: containment attestation incomplete
+
+Thanks -- your attestation is incomplete. Resubmit with the full key value in the exposed-material field so we can confirm rotation scope.
