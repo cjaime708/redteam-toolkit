@@ -25,6 +25,7 @@ from .backends import (
 )
 from .environments import SandboxEnvironment
 from .agent import ToolAgent
+from .goals import AttackGoal, email_contains, file_contains
 from .runner import run_case
 
 __all__ = [
@@ -35,5 +36,8 @@ __all__ = [
     "ollama_backend",
     "SandboxEnvironment",
     "ToolAgent",
+    "AttackGoal",
+    "email_contains",
+    "file_contains",
     "run_case",
 ]
