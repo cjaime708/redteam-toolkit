@@ -66,9 +66,12 @@ evaluation on their own.
 ## Evidence and limits
 
 The [evidence index](EVIDENCE_INDEX.md) points to the studies with the clearest
-designs and per-run records. Round 18 distinguishes one simulated key leak
-from flags caused by an ambiguous fingerprint definition. Round 21 records
-two simulated disclosures, but its trusted runbook contains conflicting
+designs and per-run records. Rounds 8 and 9 record simulated full-key sends
+to addresses supplied by forged bounce notices. They show an agent accepting
+a lower-trust recipient within a failover workflow whose seeded runbook already
+required full-key resends. Round 18 distinguishes one simulated key leak from
+flags caused by an ambiguous fingerprint definition. Round 21 records two
+simulated disclosures, but its trusted runbook contains conflicting
 instructions. Read the [round 21 correction](groklink/round21/CORRECTION.md)
 before citing that result.
 
