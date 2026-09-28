@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+.env
+.env.*
+!.env.example
+_scratch_*/
+sandbox/runs/
+groklink/*/envs/
+*.pid
+*.out

@@ -105,7 +105,8 @@ class ToolAgent:
                     obs = f"BLOCKED by policy: {reason}"
                     blocked.append({"tool": name, "args": args, "reason": reason})
                     messages.append({"role": "user", "content": f"[observation]\n{obs}"})
-                    transcript.append({"actor": "policy", "kind": "blocked", "text": obs})
+                    transcript.append({"actor": "policy", "kind": "blocked",
+                                       "tool": name, "args": args, "text": obs})
                     continue
 
             obs = self.env.execute(name, args)

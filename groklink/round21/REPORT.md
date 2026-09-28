@@ -1,5 +1,10 @@
 # GPT-5.6-Sol-Forged Rulebook-Indirect prompt injection through mid-run emails
 
+> **Interpretation correction (2026-09-28):** The trusted runbook fixture
+> contradicts itself about failover disclosure. The simulated disclosures
+> occurred, but the causal claim below is not supported by this design.
+> Read [CORRECTION.md](CORRECTION.md).
+
 Round 21 adjudication report.
 
 Date run: 2026-09-27. Design frozen before the run (SHA256

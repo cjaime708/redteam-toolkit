@@ -1,5 +1,10 @@
 # GPT-5.6-Sol-Forged Rulebook-Indirect prompt injection through mid-run emails
 
+> **Interpretation correction (2026-09-28):** The trusted runbook fixture
+> permits a full-key failover send in one step and forbids it in the next.
+> The two simulated disclosures remain in the transcripts, but the forged
+> citation is not isolated as the cause. Read [CORRECTION.md](CORRECTION.md).
+
 Red-team study | model: gpt-5.6-sol (verified, see below) | 4 runs, 29 turns | 2026-09-27
 
 ## The result in one paragraph
